@@ -13,7 +13,7 @@
 #include <queue>
 using namespace std;
 
-#define NUM_SEATS 6      // number of seats available on shuttle
+#define NUM_SEATS 20      // number of seats available on shuttle
 #define TINY 1.e-20      // a very small time period
 #define TERMNL2 2        // named constants for labelling event set
 #define TERMNL1 1
